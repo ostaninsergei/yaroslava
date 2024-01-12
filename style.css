@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(192, 192, 255);
+    padding:15px;
+}
+ header a {
+    padding:1mm ;
+    text-decoration: none; 
+    border-radius: 1cm;
+    background-color: rgb(255, 255, 255);}
+
+  h1  {
+     padding:3mm ;
+    text-decoration: none; 
+    border-radius: 6cm;
+    background-color: rgb(229, 201, 255);}
+    
+ .price {
+    border: 3px solid blueviolet;
+    padding:1px
+}
+.delivery {
+    border: 3px solid blueviolet;
+    padding:1px
+}
+.wholesale {
+    border: 3px solid blueviolet;
+    padding:1px
+}
+.about_us{
+    border: 3px solid blueviolet;
+    padding:1px
+}
+.icoin {
+     background-color: rgb(229, 201, 255);
+    padding:9px;
+}
+.rara{
+     background-color: rgb(229, 201, 255);
+    text-align:center ;
+}
